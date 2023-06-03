@@ -11,6 +11,9 @@ Steps to run the app:
     <code>pip install transformers Pillow torch torchvision torchaudio Flask</code>
   </li>
   <li>
+    In order to quicken the execution, run the <code>DownloadModels.py</code> file to download the models, weights and other requirements so that they can be used directly while the webapp is running.
+  </li>
+  <li>
     Go to the project directory containing <code>app.py</code> file using <code>cd</code> or <code>ls</code> command.
   </li>
   <li>
